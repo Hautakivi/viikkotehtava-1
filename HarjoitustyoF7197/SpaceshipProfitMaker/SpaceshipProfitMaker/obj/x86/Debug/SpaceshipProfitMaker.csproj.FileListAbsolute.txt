@@ -1,0 +1,8 @@
+C:\Users\Samu\Documents\Visual Studio 2010\Projects\SpaceshipProfitMaker\SpaceshipProfitMaker\bin\Debug\SpaceshipProfitMaker.exe
+C:\Users\Samu\Documents\Visual Studio 2010\Projects\SpaceshipProfitMaker\SpaceshipProfitMaker\bin\Debug\SpaceshipProfitMaker.pdb
+C:\Users\Samu\Documents\Visual Studio 2010\Projects\SpaceshipProfitMaker\SpaceshipProfitMaker\obj\x86\Debug\SpaceshipProfitMaker.csprojResolveAssemblyReference.cache
+C:\Users\Samu\Documents\Visual Studio 2010\Projects\SpaceshipProfitMaker\SpaceshipProfitMaker\obj\x86\Debug\SpaceshipProfitMaker.IseeProfit.resources
+C:\Users\Samu\Documents\Visual Studio 2010\Projects\SpaceshipProfitMaker\SpaceshipProfitMaker\obj\x86\Debug\SpaceshipProfitMaker.Properties.Resources.resources
+C:\Users\Samu\Documents\Visual Studio 2010\Projects\SpaceshipProfitMaker\SpaceshipProfitMaker\obj\x86\Debug\SpaceshipProfitMaker.csproj.GenerateResource.Cache
+C:\Users\Samu\Documents\Visual Studio 2010\Projects\SpaceshipProfitMaker\SpaceshipProfitMaker\obj\x86\Debug\SpaceshipProfitMaker.exe
+C:\Users\Samu\Documents\Visual Studio 2010\Projects\SpaceshipProfitMaker\SpaceshipProfitMaker\obj\x86\Debug\SpaceshipProfitMaker.pdb

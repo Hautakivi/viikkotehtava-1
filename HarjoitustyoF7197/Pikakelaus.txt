@@ -1,0 +1,11 @@
+Asennus: Luo kansio Ohjelma C:aseman juureen. C://Ohjelma ja laita kansioon ShipNames.xml
+	Samaan kansioon voi laittaa loput ohjelmasta myös.
+
+Ohjelma tekee: käyttäjä valitsee minkä aluksen haluaa tehdä, monta kappaletta, tuotteen kauppa-arvon ja mineraalien hinnat.
+		Ohjelma ilmoittaa tarvittavat mineraalimäärät, niiden kokonais hinnat, tuotteen hinnan, ja voiton
+
+Ohjelman mukana tulee ShipNames.xml
+
+Tulevaisuudessa ohjelma saa viellä R&D ihmisille sopivan laajennuksen.
+
+Mukavasti taas palautti Formsien käytön takaisin
